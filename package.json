@@ -1,16 +1,16 @@
 {
   "name": "myvue3demo",
   "version": "1.0.0",
-  "description": "我的Vue3项目",
+  "description": "GitLab功能演示 - Vue3项目",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
-  "keywords": [],
+  "keywords": ["vue3", "vite", "gitlab", "demo", "frontend"],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@vitejs/plugin-vue": "^6.0.1",
     "vite": "^7.0.6",
